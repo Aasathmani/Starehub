@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "977999763180",
+    "project_id": "starehub-8d3b0",
+    "storage_bucket": "starehub-8d3b0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:977999763180:android:3d76d6ccd425568645b7c9",
+        "android_client_info": {
+          "package_name": "com.starehub.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "977999763180-imt7erisa11bbursf4ic4l84b64imia9.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.starehub.app",
+            "certificate_hash": "8e8fb6d53b6fb1fa6a7a3a288614fe7b4a238108"
+          }
+        },
+        {
+          "client_id": "977999763180-q8e0isqcs59picitodto41hvk939qibn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDNrgQB66y1urq5bk0N_69dr0_gghz7pPk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "977999763180-q8e0isqcs59picitodto41hvk939qibn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
